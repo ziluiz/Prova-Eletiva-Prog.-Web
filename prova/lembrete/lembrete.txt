@@ -1,0 +1,15 @@
+Prova Final Prática
+Vence hoje às 11:20
+Instruções
+Crie uma aplicação Angular para listar os dados do seguinte endpoint: https://jsonplaceholder.typicode.com/todos
+Listar todos os ToDos  em uma tabela.
+
+Itens Obrigatório.
+
+Criar um repositório único para o projeto.
+Criar a classe de serviço
+Criar uma interface tipo Todo
+Criar um componente para mostrar os dados os todos em uma tabela
+Aplicar CSS no componente
+Enviar o link do GitHub
+Fazer um commit a cada 20 minutos (O professor vai avisar)
